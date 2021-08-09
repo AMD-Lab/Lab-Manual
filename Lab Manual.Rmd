@@ -1,0 +1,69 @@
+---
+title: "Lab Manual"
+output:
+  rmarkdown::html_vignette:
+    toc: true
+    toc_depth: 4
+vignette: >
+  %\VignetteIndexEntry{Lab Manual}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+bibliography: references.bib
+csl: "apa.csl"
+---
+
+# Welcome
+
+# Lab Member Expectations and Responsibilities
+
+## Everyone
+
+### Big Picture
+
+### Small Picture
+
+### Work Hours
+
+## Anna-Lena
+
+## Postdocs
+
+## PhD Students
+
+## HiWis
+
+# Communication
+
+## Within the Lab
+
+### Kick-off-Meeting
+
+### Lab Meeting
+
+### Jour Fixe
+
+## Outside the Lab
+
+### Talks
+
+### Posters
+
+# Science
+
+## Big Picture
+
+### Code of Conduct
+
+### Values
+
+### Goals
+
+## Practical Science
+
+### Participants
+
+### Laboratory
+
+### Lab Equipment
+
+## Authorship
